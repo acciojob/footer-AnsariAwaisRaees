@@ -1,1 +1,22 @@
 /* your code here */
+.content{
+	background-color: white;
+}
+
+.logo-details .logo_name{
+	color: white;
+	font-size: 30px;
+	margin: 15px;
+	padding: 10px;
+}
+
+.bottom-details{
+	display: flex;
+	justify-content: space-between;
+	background-color: grey;
+}
+
+.bottom-details>p{
+	padding: 10px;
+	margin: 15px;
+}
